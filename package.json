@@ -1,0 +1,26 @@
+{
+  "name": "new_user-_product_management_mongoose",
+  "version": "1.0.0",
+  "description": "we are building an simple Users &amp; Products app, where you can perform all the CRUD operations of User &amp; Product",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pqnitish/new_User-_Product_Management_mongoose.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pqnitish/new_User-_Product_Management_mongoose/issues"
+  },
+  "homepage": "https://github.com/pqnitish/new_User-_Product_Management_mongoose#readme",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mongoose": "^8.8.3",
+    "nodemon": "^3.1.7"
+  }
+}
